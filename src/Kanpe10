@@ -1,0 +1,24 @@
+○ArrayList
+
+・メリット
+番号を指定できるので、要素の取り出しや変更が早い
+
+・デメリット
+リストの真ん中にある要素を削除したり追加したりするときに、他の要素の番号も振り直さないといけない
+
+・参考文献
+LinkedListとArrayListの違い - syttruの日記
+http://d.hatena.ne.jp/syttru/20080406/1207499238
+
+
+○HashMap
+
+・メリット
+要素を参照するときのデータ型が任意。一方、ArrayListは番号でしか参照できない
+
+・デメリット
+キーのデータ型が自由であるため、ArrayListと比べて管理が大変。
+
+・参考文献
+Java 入門 | HashMap クラス
+http://msugai.fc2web.com/java/collection/HashMap.html
