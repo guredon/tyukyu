@@ -1,0 +1,9 @@
+_ArrayList<String> array = new ArrayList<>()
+
+文字列を格納するArrayListクラスのインスタンスを作成する。
+ArrayListクラスは、大きさが決まっていない配列を用意する。
+クラス名の後ろにある「<, >」で囲まれた部分には、どのような型の値を格納するのかを指定する。
+
+・参考文献
+　ArrayListクラス - コレクション(ArrayList) - Java入門
+　http://www.javadrive.jp/start/arraylist/index1.html
